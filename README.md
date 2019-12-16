@@ -6,7 +6,7 @@ Following is a set of exercises that we would like you to complete (e.g provide 
 
 Last but not least, some guidelines.
 
-- You should fork the main repository and create a separate branch (named accordingly) to each of the exercises.
+- You create a repository and create a separate branch (named accordingly) to each of the exercises.
 - For the purpose of these exercises you may use create-react-native-app  or expo-cli to quickly create a new React Native app, unless you prefer doing all the heavy lifting yourself
 
 With that said; good luck!
@@ -17,7 +17,7 @@ Given the array (see line 3 in script.js) which consists of objects holding info
 
 ## Exercise 2
 
-Neat, that worked out well. Splendid! But... Being the curious cats we are, we would also like to know when someone clicks on a specific company in the list. Help! A console.warn() will do just fine, but you can get all fancy too if you happen to know some quick to display clicks.
+Neat, that worked out well. Splendid! But... Being the curious cats we are, we would also like to know when someone clicks on a specific company in the list. Help! A console.warn() will do just fine, but you can get all fancy too if you happen to know some quick way to display clicks.
 
 ## Exercise 3
 
